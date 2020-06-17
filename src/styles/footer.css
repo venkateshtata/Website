@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'roboto-light';
+    src: url(./fonts/Roboto-Light.ttf);
+    font-style: normal;
+    font-weight: 100;
+
+}
+
+@font-face {
+    font-family: 'roboto-thin';
+    src: url(./fonts/Roboto-Thin.ttf);
+    font-style: normal;
+    font-weight: 100;
+
+}
+
+@font-face {
+    font-family: 'roboto-regular';
+    src: url(./fonts/Roboto-Regular.ttf);
+    font-style: normal;
+    font-weight: 100;
+
+}
+
+.footer-head{
+    background-color: black;
+    color: white;
+}
+
+.foot{
+    background-color: #202020;
+    color: white;
+}
+
+.addr_head{
+    font-family: 'roboto-light';
+    margin: 50px;
+    color: white;
+}
+
+.addr{
+
+    font-family: 'roboto-light';
+    margin: 50px;
+    color: white;
+
+}

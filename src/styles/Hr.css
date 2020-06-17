@@ -1,0 +1,9 @@
+.Hr{
+    border-radius: 10px;
+    border-color: gray;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    /* margin-bottom: 50px;  */
+    margin-left: 600px;
+    margin-right: 600px;
+}
